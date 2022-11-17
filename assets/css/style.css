@@ -1,0 +1,72 @@
+.fundo{
+    background-color: rgb(173,216,230);
+    
+}
+
+.texto{
+
+    background-color: beige;
+    border-radius: 5%;
+}
+.center {
+    text-align: center;
+}
+
+
+
+.container {
+    display:flex;
+    text-align: center;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 16px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: aqua;
+
+}
+
+.p-30{
+    padding: 30px;
+    padding: top;
+    padding-bottom: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.br-15 {
+    border-radius: 15%;
+}
+
+.wh-300 {
+    width: 300;
+    height: 300px;
+}
+
+.tm-social {
+    width: 40px;
+    height: 40px;
+    margin: 100px;
+    
+   
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+
